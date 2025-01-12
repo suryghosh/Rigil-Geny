@@ -110,12 +110,12 @@ export default function Contact() {
               
               </div>
             
-            <div className="bento-card p-6 bg-white rounded-lg shadow-md space-y-2">
+            <div className="bento-card p-6 bg-white rounded-lg shadow-md space-y-3">
               <h3 className="text-lg font-semibold mb-3 text-black pb-6">Additional Details</h3>
-              <p className="text-black pb-1">📞 +91 7022530079</p>
-              <p className="text-black pb-1">✉️ support@naksysglobal.com</p>
-              <p className="text-black font-bold">📍
-              18/10, Lalitha Niwas, 1st Main, PF layout, Marenahalli, Vijaynagar, Bengaluru, Karnataka, India - 560040</p>
+              <p className="text-black pb-1 text-[1.3vw]">📞 +91-9999270670</p>
+              <p className="text-black pb-1 text-[1.3vw]">✉️  info@rigilgeny.com</p>
+              <p className="text-black font-bold text-[1.3vw]">📍
+              G-282, Sector-63, Noida, Uttar Pradesh, India - 201301</p>
             </div>
           </div>
         </div>
